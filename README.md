@@ -35,11 +35,11 @@ Tech: `FastAPI` `LangGraph` `Groq LLM` `PostgreSQL` `SQLAlchemy` `Pydantic`
 
 ### 🛠️ Tech I work with
 
-**AI/GenAI:** LangChain · LangGraph · RAG Pipelines · Prompt Engineering · Embeddings · ChromaDB
+**Programming Languages:** Python · JavaScript · SQL
 
-**Backend:** Python · FastAPI · SQLAlchemy · Pydantic · REST APIs
+**Generative AI & Agentic Systems:** LLMs (Groq) · LangChain · LangGraph · Agentic AI / Tool Calling · RAG Pipelines · Embeddings · Prompt Engineering · LangSmith (Tracing & Evaluation)
 
-**Frontend:** React · Streamlit · Tailwind CSS · JavaScript
+**Backend, Data & Streaming:** FastAPI · SQLAlchemy
 
 **Databases:** PostgreSQL · MySQL · MongoDB
 
